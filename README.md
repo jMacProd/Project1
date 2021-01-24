@@ -20,6 +20,8 @@
 
 ### 01-Project_Documents
 * Contains all the documents and image files for the project
+    - **/01-Project_Documents/Work_Plan_Based_on_Proposal_15012021.docx**
+    - **/01-Project_Documents/0Airbnb Invesment Write Up.docx**
 #### /01-Project_Documents/01-Presentation_Slides
 + Contains the presentation slides and the following subfolders for image output:
     - **/01-Project_Documents/01-Presentation_Slides/Correlation_Output**
