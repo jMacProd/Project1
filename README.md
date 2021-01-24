@@ -21,10 +21,10 @@
 ### 01-Project_Documents
 * Contains all the documents and image files for the project
 #### /01-Project_Documents/01-Presentation_Slides
-* Contains the presentation slides and the following subfolders for image output:
-- **/01-Project_Documents/01-Presentation_Slides/Correlation_Output**<br>
-- **/01-Project_Documents/01-Presentation_Slides/Occupancy_Analysis**<br>
-- **/01-Project_Documents/01-Presentation_Slides/Price_Output**<br>
++ Contains the presentation slides and the following subfolders for image output:
+- **/01-Project_Documents/01-Presentation_Slides/Correlation_Output**
+- **/01-Project_Documents/01-Presentation_Slides/Occupancy_Analysis**
+- **/01-Project_Documents/01-Presentation_Slides/Price_Output**
 #### /01-Project_Documents/02-Image_Files
 * Contains screenshots for the initial analysis
 
